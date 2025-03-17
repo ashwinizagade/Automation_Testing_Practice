@@ -12,7 +12,7 @@ public class AssignmentOperator1 {
 		 
 		 System.out.println(a  *=  2);//20 do not pass space between + and =
 		 
-		 System.out.println(a  /=   5); // 4 
+
 		 
 		 
 
