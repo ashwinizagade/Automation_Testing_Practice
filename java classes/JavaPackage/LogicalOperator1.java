@@ -6,7 +6,7 @@ public class LogicalOperator1 {
 		
 		int a = 10; //local variable
 		int b = 15; // local variable
-		int c = 20; // local variable
+		int c = 21; // local variable
 		
 		
 		//logical operator - if first condition is false , 2nd condition will not check
