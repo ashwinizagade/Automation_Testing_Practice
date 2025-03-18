@@ -14,7 +14,7 @@ public class variable9 {
 		String q= "h";
 		System.out.println(q);
 		
-		String str = "Hello Selenium";
+		String str = "HelloSelenium";
 		System.out.println(str.length());  //14
 		System.out.println(str);// Hello Selenium
 
